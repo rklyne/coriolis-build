@@ -5,7 +5,7 @@ http_response_code(503);
 
 ?>
 <!DOCTYPE html>
-<html manifest=/coriolis.appcache>
+<html>
 <head><title>#support3rdparty - Why we temporarily shut down our sites - Coriolis EDCD Edition</title>
     <meta charset=UTF-8>
     <link rel=stylesheet href=/a902be.css>
