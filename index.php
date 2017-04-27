@@ -1,3 +1,9 @@
+<?php
+
+header('Retry-After: Sun, 30 Apr 2017 12:00:00 GMT');
+http_response_code(503);
+
+?>
 <!DOCTYPE html>
 <html manifest=/coriolis.appcache>
 <head><title>#support3rdparty - Why we temporarily shut down our sites - Coriolis EDCD Edition</title>

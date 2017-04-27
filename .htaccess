@@ -4,7 +4,7 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 # Otherwise forward the request to index.php
-RewriteRule . index.html
+RewriteRule . index.php
 
 # Apache Server Configs v2.10.0 | MIT License
 # https://github.com/h5bp/server-configs-apache
